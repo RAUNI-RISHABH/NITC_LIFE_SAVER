@@ -1,0 +1,209 @@
+body{
+	background:url(nitgate.jpg);
+	background-size:100% 710px;
+	padding-top:150px;
+	
+}
+
+
+#nav{
+	padding-top:30px;
+	padding-left:35px;
+	font-size:30px;
+	background:black;
+	margin:auto;
+	width:500px;
+	height:850px;
+	border-radius:10px;
+	opacity:.8;
+	
+}
+
+#nav input{
+	margin-top:20px;
+	width:200px;
+	height:30px;
+	font-size:20px;
+	border-radius:10px;
+	
+	
+}
+
+#nav select{
+	margin-top:20px;
+	width:250px;
+	height:30px;
+	font-size:20px;
+	border-radius:10px;
+}
+
+#nav textarea{
+	
+	margin-top:20px;
+	width:200px;
+	height:70px;
+	font-size:20px;
+	border-radius:10px;
+}
+
+#nav input[name="email"]{
+	margin-top:12px;
+	width:400px;
+	
+}
+#nav input[name="submit"]{
+	margin-top:14px;
+	width:150px;
+	border-radius:50px;
+	margin-left:180px;
+	height:50px;
+	background:blue;
+	color:white;
+	font-weight:bold;
+}
+#nav input[name="submit"]:hover{
+	background:white;
+	color:blue;
+}
+
+#nav input[name="reset"]{
+	margin-top:10px;
+	width:150px;
+	border-radius:50px;
+	height:50px;
+	background:blue;
+	color:white;
+	font-weight:bold;
+}
+#nav input[name="reset"]:hover{
+	background:white;
+	color:blue;
+}
+
+#nav h3{
+	font-style: oblique;
+	color:white;
+}
+
+ul {
+	
+list-style-type: none;
+margin:0;
+padding:2px;
+over-flow:hidden:
+background-color: #333;
+}
+li{
+	margin-top:-10px;
+	margin-right:2px;
+float: left;
+}
+li a{
+display:block;
+color:white;
+text-align:center;
+padding: 2px 10px;
+text-decoration:none;
+width:220px;
+font-size:20px;
+height:40px;
+}
+li a{
+background-color:gray;
+border:0px solid black;
+line-height:42px;
+}
+
+#nav ul li a:hover{
+	background-color:cyan;
+	color:grey;
+	
+}
+
+#nav ul li a.active{
+	background-color:cyan;
+	color:grey;
+	
+}
+
+
+#nav1{
+	padding-top:30px;
+	padding-left:40px;
+	padding-right:40px;
+	font-size:30px;
+	background:black;
+	margin:auto;
+	width:500px;
+	height:500px;
+	border-radius:10px;
+	opacity:.8;
+	
+}
+
+#nav1 input{
+	margin-top:20px;
+	width:200px;
+	height:30px;
+	font-size:20px;
+	border-radius:10px;
+	
+	
+}
+
+
+
+#nav1 input[name="submit1"]{
+	margin-top:14px;
+	width:300px;
+	
+	
+	height:50px;
+	background:cyan;
+	color:white;
+	font-weight:bold;
+}
+#nav1 input[name="submit1"]:hover{
+	background:white;
+	color:cyan;
+}
+
+
+
+
+#nav1 input[name="username"]{
+	margin-top:12px;
+	width:300px;
+	
+}
+
+#nav1 input[name="password"]{
+	margin-top:12px;
+	width:300px;
+	
+}
+
+#nav1 ul li a:hover{
+	background-color:cyan;
+	color:grey;
+	
+}
+
+#nav1 ul li a.active1{
+	background-color:cyan;
+	color:grey;
+	
+}
+
+#nav1 h3{
+	font-style: oblique;
+	color:white;
+}
+
+#nav1 a{
+	font-size:20px;
+	 color:blue;
+	 line-height:42px;
+	 
+	 
+}
